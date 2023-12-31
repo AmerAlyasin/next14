@@ -1,0 +1,107 @@
+/*!************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[3]!./app/ui/dashboard/quotations/addQuotation/addQuotation.module.css ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************************************/
+.addQuotation_container__K05AG {
+    background-color: var(--bgSoft);
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+  }
+  
+  .addQuotation_form1__X9fMc {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .addQuotation_form2__DR_CZ input,
+  .addQuotation_form2__DR_CZ textarea {
+    padding: 30px;
+    background-color: var(--bg);
+    color: var(--text);
+    border: 2px solid #2e374a;
+    border-radius: 5px;
+    margin-bottom: 30px;
+  }
+  
+  .addQuotation_form1__X9fMc input {
+    width: 45%;
+    padding: 30px;
+    background-color: var(--bg);
+    color: var(--text);
+    border: 2px solid #2e374a;
+    border-radius: 5px;
+    margin-bottom: 30px;
+  }
+  
+  .addQuotation_form1__X9fMc textarea{
+    width: 100%;
+    padding: 10px;
+    background-color: var(--bg);
+    color: var(--text);
+    border: 2px solid #2e374a;
+    border-radius: 5px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+  }
+
+  .addQuotation_form2__DR_CZ input,
+  .addQuotation_form2__DR_CZ textarea{
+    padding: 10px;
+    background-color: var(--bg);
+    color: var(--text);
+    border: 2px solid #2e374a;
+    border-radius: 5px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+  }
+  
+  .addQuotation_iconButton__1FAmj{
+    width: 100%;
+    padding: 10px;
+    background-color: teal;
+    color: var(--text);
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    margin-left: 60px;
+  }
+
+ 
+   .addQuotation_addButton__fGieh{
+    background-color: teal;
+  }
+
+   .addQuotation_deleteButton__RIT7J{
+    background-color: crimson;
+
+  }
+
+  .addQuotation_title__UhDhs {
+    text-align: center;
+    font-size: 30px; 
+    font-weight: bold; 
+    margin-bottom: 30px; 
+  }
+
+  .addQuotation_form2__DR_CZ .addQuotation_numberInput__PG9Wl {
+    background: none; /* Remove background color */
+    border: none; /* Remove border */
+    outline: none; /* Remove outline */
+    /* Add any additional styling as needed */
+  }
+
+  .addQuotation_form2__DR_CZ .addQuotation_input1__XdeoV{
+    margin-right:5px ;
+  }
+
+  .addQuotation_form1__X9fMc button{
+    width: 100%;
+    padding: 30px;
+    background-color: teal;
+    color: var(--text);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+

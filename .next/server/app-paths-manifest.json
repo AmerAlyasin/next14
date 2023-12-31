@@ -1,0 +1,6 @@
+{
+  "/not-found": "app/not-found.js",
+  "/dashboard/quotations/page": "app/dashboard/quotations/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/dashboard/quotations/add/page": "app/dashboard/quotations/add/page.js"
+}

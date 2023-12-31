@@ -1,0 +1,103 @@
+.container {
+    background-color: var(--bgSoft);
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+  }
+  
+  .form1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .form2 input,
+  .form2 textarea {
+    padding: 30px;
+    background-color: var(--bg);
+    color: var(--text);
+    border: 2px solid #2e374a;
+    border-radius: 5px;
+    margin-bottom: 30px;
+  }
+  
+  .form1 input {
+    width: 45%;
+    padding: 30px;
+    background-color: var(--bg);
+    color: var(--text);
+    border: 2px solid #2e374a;
+    border-radius: 5px;
+    margin-bottom: 30px;
+  }
+  
+  .form1 textarea{
+    width: 100%;
+    padding: 10px;
+    background-color: var(--bg);
+    color: var(--text);
+    border: 2px solid #2e374a;
+    border-radius: 5px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+  }
+
+  .form2 input,
+  .form2 textarea{
+    padding: 10px;
+    background-color: var(--bg);
+    color: var(--text);
+    border: 2px solid #2e374a;
+    border-radius: 5px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+  }
+  
+  .iconButton{
+    width: 100%;
+    padding: 10px;
+    background-color: teal;
+    color: var(--text);
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    margin-left: 60px;
+  }
+
+ 
+   .addButton{
+    background-color: teal;
+  }
+
+   .deleteButton{
+    background-color: crimson;
+
+  }
+
+  .title {
+    text-align: center;
+    font-size: 30px; 
+    font-weight: bold; 
+    margin-bottom: 30px; 
+  }
+
+  .form2 .numberInput {
+    background: none; /* Remove background color */
+    border: none; /* Remove border */
+    outline: none; /* Remove outline */
+    /* Add any additional styling as needed */
+  }
+
+  .form2 .input1{
+    margin-right:5px ;
+  }
+
+  .form1 button{
+    width: 100%;
+    padding: 30px;
+    background-color: teal;
+    color: var(--text);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
